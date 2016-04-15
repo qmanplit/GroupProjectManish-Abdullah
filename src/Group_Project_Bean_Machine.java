@@ -4,6 +4,7 @@ public class Group_Project_Bean_Machine {
 	public static void main(String[] args) {
 
 		Scanner input = new Scanner(System.in);
+// project update by manish
 
 		// Let the user to enter the number of the balls
 		System.out.print("Enter the number of balls: ");
